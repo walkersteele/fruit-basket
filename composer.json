@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^3.5",
+        "doctrine/orm": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "FruitBasket\\": "src/FruitBasket"
+        }
+    }
+}
